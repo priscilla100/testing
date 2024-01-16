@@ -1,5 +1,5 @@
 ---
-date: 'Present'
+date: '2028-05-01'
 title: 'Doctor of Philosophy in Computer Science'
 company: 'Stony Brook University'
 location: 'New York, USA'
