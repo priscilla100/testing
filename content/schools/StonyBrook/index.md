@@ -3,7 +3,7 @@ date: 'Present'
 title: 'Doctor of Philosophy in Computer Science'
 company: 'Stony Brook University'
 location: 'New York, USA'
-range: 'September 2023 - Present'
+range: 'September 2023 - June 2028'
 url: 'https://www.stonybrook.edu/'
 
 ---
