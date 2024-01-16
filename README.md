@@ -1,13 +1,13 @@
-<h1 align="center">
-  https://priscilla100.github.io/
-</h1>
+<div align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/priscilla100/priscilla100.github.io/main/src/images/logo.png" width="100" />
+</div>
 
 <p align="center">
-  A portfolio website i.e. <a href="https://priscilla100.github.io/" target="_blank">https://priscilla100.github.io/</a> developed &amp; built by <a href="https://brittanychiang.com/" target="_blank">Brittany Chiang 🫡 </a> and designed by <a href="https://priscilla100.github.io" target="_blank">ME! 🙌🏾</a>
+  Portfolio website <a href="https://priscilla100.github.io/" target="_blank">https://priscilla100.github.io/</a> developed &amp; built by <a href="https://brittanychiang.com/" target="_blank">Brittany Chiang 🫡 </a> and designed by <a href="https://priscilla100.github.io" target="_blank">ME 🙌🏾</a>
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/priscilla100/v1" target="_blank">v1</a>,
+  <a href="https://github.com/priscilla100/portfolio-v1" target="_blank">v1</a>,
 </p>
 <p align="center">
   <a href="https://choosealicense.com/licenses/mit/">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://github.com/priscilla100/priscilla100.github.io/blob/main/src/images/demo.png)
 
 ## Sections
 
