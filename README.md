@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/priscilla100/priscilla100.github.io/main/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/priscilla100/priscilla100.github.io/main/logo.png" width="100" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-![demo](https://github.com/priscilla100/priscilla100.github.io/blob/main/images/demo.png)
+![demo](https://github.com/priscilla100/priscilla100.github.io/blob/main/og.png)
 
 ## Sections
 
